@@ -8,7 +8,7 @@ Decidi usar o sistema de preparação de textos LaTeX visando o aprendizado do u
 
 ## Status 📈
 
-O trabalho ainda está em andamamento: é necessário escrever os enunciados das questões e resolvê-las.
+O trabalho está concluído.
 
 ## Autor 🤓
 
